@@ -1,0 +1,13 @@
+{
+  "name": "eu-talent-attractiveness-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive 2026 EU talent-attractiveness map for highly skilled workers.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
